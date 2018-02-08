@@ -60,6 +60,7 @@ This view can be initialized either by code or be included in your storyboard or
 #### Images ####
 You'll need to provide three images in your assets folder representing each
 of the star's 3 main states (`emptyStar`, `halfStar`, `filledStar`).
+_Note that the images must be somewhat clean and simple, because they will be rendered as templates by default and tinted to `UIColor.yellow`._
 
 ---
 
