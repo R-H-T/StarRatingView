@@ -1,4 +1,4 @@
-/
+//
 //  StarRatingView.swift
 //  Star Rating View
 //
